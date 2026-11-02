@@ -4,3 +4,4 @@ x * y = product
 x / y = division
 x**2 = square of a function
 x**1/2 = root of function
+x! = factorial of x
