@@ -1,0 +1,5 @@
+x + y = sum
+x - y = diff
+x * y = product
+x / y = division
+x**2 = square of a function
